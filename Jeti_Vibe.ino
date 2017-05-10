@@ -9,7 +9,7 @@
   - Motor Off at 0% or if no signal
   - Internal Led (Red) follows motor for debugging purpose when no computer is connected
 
-  by Tero Salminen 2017 www.RC-Thoughts.com
+  by Tero Salminen 2016 www.RC-Thoughts.com
 
   Based on Read_any_PPM_V05 by Hasi http://www.rcgroups.com/forums/showthread.php?t=1808432
 */
